@@ -49,4 +49,4 @@ String get kFvmHome {
 }
 
 /// Flutter Channels
-const kFlutterChannels = ['master', 'stable', 'dev', 'beta'];
+const kFlutterChannels = ['master', 'stable', 'beta'];
